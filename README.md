@@ -29,7 +29,7 @@ TwitterやInstagramで専用アカウントを作成し、サービスの概要�
 作成したしおりを共有、閲覧することができます。
 
 ■ 機能候補  
-【MVPリリース】  
+【MVPリリース】
   - 会員登録
   - ログイン
   - しおり作成
@@ -38,13 +38,16 @@ TwitterやInstagramで専用アカウントを作成し、サービスの概要�
   - お気に入り登録  
 
 
-【本リリース】  
+【本リリース】
   - マルチ検索
   - しおりに位置情報を紐づける
 
-■ 機能の実装方針予定  
+■ 機能の実装方針予定
   - マルチ検索：Stimulus Autocomplete（Rails7 ）
   - しおりに位置情報を紐づける：Google Maps Platform
 
 ■ 画面遷移図  
 https://www.figma.com/proto/86rdOMyG7xWz5tITzG5LwL/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=20-3&t=3jHAWM9Bcs6mDsWX-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+
+■ ER図  
+https://i.gyazo.com/11254723141ac98d0a9fc4d55f034b45.png
